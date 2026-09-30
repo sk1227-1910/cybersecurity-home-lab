@@ -3,7 +3,7 @@
 A self-directed, hybrid local/cloud cybersecurity home lab built to practice detection engineering, attack simulation, and blue-team analysis across real-world attack and incident scenarios.
 
 ## Lab Architecture
-
+![Lab Architecture Diagram](./Home%20Lab%201.jpg)
 - **Attacker VM:** Kali Linux
 - **Victim VM:** Ubuntu Server (running DVWA, ModSecurity WAF, Suricata IDS, Wazuh agent)
 - **SIEM:** Wazuh (manager, indexer, dashboard) — cloud-hosted on a DigitalOcean VPS
