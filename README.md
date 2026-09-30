@@ -1,6 +1,6 @@
 # Cybersecurity Home Lab
 
-A self-directed, hybrid local/cloud cybersecurity home lab built to practice detection engineering, attack simulation, and blue-team analysis across eight real-world attack and incident scenarios.
+A self-directed, hybrid local/cloud cybersecurity home lab built to practice detection engineering, attack simulation, and blue-team analysis across real-world attack and incident scenarios.
 
 ## Lab Architecture
 
@@ -11,20 +11,20 @@ A self-directed, hybrid local/cloud cybersecurity home lab built to practice det
 
 The goal throughout: build a realistic attacker/victim/monitoring environment, execute real attack and incident-response scenarios end-to-end, and validate whether the detection stack (WAF → IDS → SIEM) actually catches them — documenting both successes and detection gaps honestly.
 
-*Note: my resume and LinkedIn feature a curated set of 6 highlights for space. This repo contains the full 8-part archive.*
+*Note: my resume and LinkedIn feature a curated set of 6 highlights for space. This repo contains the full 8-lab archive.*
 
 ## Lab Reports
 
-| Part | Scenario | Focus |
+| Lab | Scenario | Focus |
 |---|---|---|
-| [Part 1](./part-1-phishing-triage.md) | Phishing Email Triage & SOC Escalation | IOC analysis, threat intel correlation, formal SOC ticket |
-| [Part 2](./part-2-phishing-incident-response.md) | Phishing Incident Response | Suricata-to-Wazuh integration, full NIST IR lifecycle |
-| [Part 3](./part-3-ssh-brute-force.md) | SSH Brute-Force Detection | SIEM build, MITRE ATT&CK-mapped alerting |
-| [Part 4](./part-4-sql-injection.md) | SQL Injection Detection Gap | IDS troubleshooting, root-cause diagnosis |
-| [Part 5](./part-5-waf-to-siem.md) | WAF-to-SIEM Log Integration | Log pipeline engineering, live attack validation |
-| [Part 6](./part-6-command-injection.md) | Command Injection Testing | WAF evasion testing, SIEM classification gaps |
-| [Part 7](./part-7-stored-xss.md) | Stored XSS & Detection Blind Spot | Controlled WAF bypass, single-point-of-failure analysis |
-| [Part 8](./part-8-file-upload.md) | File Upload Exploitation | Suricata remediation, exploitability verification |
+| [Lab 1](./lab-1-phishing-triage.md) | Phishing Email Triage & SOC Escalation | IOC analysis, threat intel correlation, formal SOC ticket |
+| [Lab 2](./lab-2-phishing-incident-response.md) | Phishing Incident Response | Suricata-to-Wazuh integration, full NIST IR lifecycle |
+| [Lab 3](./lab-3-ssh-brute-force.md) | SSH Brute-Force Detection | SIEM build, MITRE ATT&CK-mapped alerting |
+| [Lab 4](./lab-4-sql-injection.md) | SQL Injection Detection Gap | IDS troubleshooting, root-cause diagnosis |
+| [Lab 5](./lab-5-waf-to-siem.md) | WAF-to-SIEM Log Integration | Log pipeline engineering, live attack validation |
+| [Lab 6](./lab-6-command-injection.md) | Command Injection Testing | WAF evasion testing, SIEM classification gaps |
+| [Lab 7](./lab-7-stored-xss.md) | Stored XSS & Detection Blind Spot | Controlled WAF bypass, single-point-of-failure analysis |
+| [Lab 8](./lab-8-file-upload.md) | File Upload Exploitation | Suricata remediation, exploitability verification |
 
 *(Reports being uploaded — check back if a link isn't live yet.)*
 
