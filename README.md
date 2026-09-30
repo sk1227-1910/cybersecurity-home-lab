@@ -17,14 +17,14 @@ The goal throughout: build a realistic attacker/victim/monitoring environment, e
 
 | Lab | Scenario | Focus |
 |---|---|---|
-| [Lab 1](./lab-1-phishing-triage.md) | Phishing Email Triage & SOC Escalation | IOC analysis, threat intel correlation, formal SOC ticket |
-| [Lab 2](./lab-2-phishing-incident-response.md) | Phishing Incident Response | Suricata-to-Wazuh integration, full NIST IR lifecycle |
-| [Lab 3](./lab-3-ssh-brute-force.md) | SSH Brute-Force Detection | SIEM build, MITRE ATT&CK-mapped alerting |
-| [Lab 4](./lab-4-sql-injection.md) | SQL Injection Detection Gap | IDS troubleshooting, root-cause diagnosis |
-| [Lab 5](./lab-5-waf-to-siem.md) | WAF-to-SIEM Log Integration | Log pipeline engineering, live attack validation |
-| [Lab 6](./lab-6-command-injection.md) | Command Injection Testing | WAF evasion testing, SIEM classification gaps |
-| [Lab 7](./lab-7-stored-xss.md) | Stored XSS & Detection Blind Spot | Controlled WAF bypass, single-point-of-failure analysis |
-| [Lab 8](./lab-8-file-upload.md) | File Upload Exploitation | Suricata remediation, exploitability verification |
+| [Lab 1](./lab-1-phishing-triage.pdf) | Phishing Email Triage & SOC Escalation | IOC analysis, threat intel correlation, formal SOC ticket |
+| [Lab 2](./lab-2-phishing-incident-response.pdf) | Phishing Incident Response | Suricata-to-Wazuh integration, full NIST IR lifecycle |
+| [Lab 3](./lab-3-ssh-brute-force.pdf) | SSH Brute-Force Detection | SIEM build, MITRE ATT&CK-mapped alerting |
+| [Lab 4](./lab-4-sql-injection.pdf) | SQL Injection Detection Gap | IDS troubleshooting, root-cause diagnosis |
+| [Lab 5](./lab-5-waf-to-siem.pdf) | WAF-to-SIEM Log Integration | Log pipeline engineering, live attack validation |
+| [Lab 6](./lab-6-command-injection.pdf) | Command Injection Testing | WAF evasion testing, SIEM classification gaps |
+| [Lab 7](./lab-7-stored-xss.pdf) | Stored XSS & Detection Blind Spot | Controlled WAF bypass, single-point-of-failure analysis |
+| [Lab 8](./lab-8-file-upload.pdf) | File Upload Exploitation | Suricata remediation, exploitability verification |
 
 *(Reports being uploaded — check back if a link isn't live yet.)*
 
